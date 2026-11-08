@@ -1,0 +1,14 @@
+{
+  "included_trials": 1573,
+  "excluded_trials": 155,
+  "source_participants": 36,
+  "evaluation_participants": 32,
+  "folds_verified": 32,
+  "model_score_rows": 128,
+  "reproduced_participant": "P1-CL",
+  "reproduced_models": 4,
+  "raw_checksums_verified": true,
+  "frozen_hashes_match": true,
+  "no_cross_participant_identical_shapes": true,
+  "local_report_links_exist": true
+}

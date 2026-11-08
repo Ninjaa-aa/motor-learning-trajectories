@@ -1,0 +1,5 @@
+{
+  "participant_options": 32,
+  "all_trajectory_selectors_tested": true,
+  "method": "JavaScript executed with DOM stubs; not browser layout validation"
+}
