@@ -1,0 +1,6 @@
+Suggested wording after independent review and rerun:
+
+Human motor-learning analysis | Python, SciPy, scikit-learn
+Developed an AI-assisted Python pipeline analysing 1,573 recorded wrist-motion trajectories from 36 participants, with signal processing, participant-level statistics and PCA. Evaluated pre/post-training phase classification on 32 participants using participant-disjoint folds; motion features achieved 76.8% balanced accuracy versus 69.3% for a timing-and-accuracy baseline.
+
+Do not claim data collection, independent origination, cognitive automaticity, a publication, or external validation. Measured classifier results and uncertainty are in results/REPORT.md.
