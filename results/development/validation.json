@@ -1,0 +1,6 @@
+{
+  "included_trials": 180,
+  "folds": 4,
+  "models": 4,
+  "finite_predictions": true
+}
