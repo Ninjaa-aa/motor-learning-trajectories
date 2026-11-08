@@ -1,0 +1,13 @@
+split,phase,reason,count
+development,post,no_right_endpoint_after_left,1
+development,pre,no_left_endpoint,2
+development,pre,no_right_endpoint_after_left,6
+development,retention,no_right_endpoint_after_left,3
+evaluation,post,duration_outside_bounds,2
+evaluation,post,no_left_endpoint,5
+evaluation,post,no_right_endpoint_after_left,25
+evaluation,pre,duration_outside_bounds,1
+evaluation,pre,no_left_endpoint,11
+evaluation,pre,no_right_endpoint_after_left,48
+evaluation,retention,no_left_endpoint,2
+evaluation,retention,no_right_endpoint_after_left,49
