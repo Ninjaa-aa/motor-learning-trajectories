@@ -1,0 +1,34 @@
+[
+  {
+    "file": "data/raw/day1/P1-EA/P1-EA.db",
+    "sha256": "1de598fe718da6e1f8562538f8bf512f17ff9ebba82771668bf7ac17655deb15"
+  },
+  {
+    "file": "data/raw/day1/P1-RM/P1-RM.db",
+    "sha256": "4847ad1bf8015eaddd469ff50c090bd07af36abc78f01c6828a2e9f53a9a953b"
+  },
+  {
+    "file": "data/raw/day1/P12-EA/P12-EA.db",
+    "sha256": "8338fa720a78063936dc47e0863941307cf5af78049c2bb7468c715dd1bf457e"
+  },
+  {
+    "file": "data/raw/day1/P9-CL/P9-CL.db",
+    "sha256": "076cfbc75844b8424301c575218ba59333a2fa6a3284132c8ab964cf99442638"
+  },
+  {
+    "file": "data/raw/day2/P1-EA/P1-EA.db",
+    "sha256": "7ea010a20dc1120bd06479b51b1bfd37d349dafd5a546edf901fa1475bf2d20d"
+  },
+  {
+    "file": "data/raw/day2/P1-RM/P1-RM.db",
+    "sha256": "95eaf46122deb57fa754b658c8ec7cf664c20110fa1ca396ac3d2ecbd77e3f15"
+  },
+  {
+    "file": "data/raw/day2/P12-EA/P12-EA.db",
+    "sha256": "299434186535ce76ddfea6bb90315110427189c9d764554fd37394537e3f8992"
+  },
+  {
+    "file": "data/raw/day2/P9-CL/P9-CL.db",
+    "sha256": "9571bc8f44cda22f0dd4f3d469600714003c0aaea3f40e84c7c1c0c482dc121f"
+  }
+]
