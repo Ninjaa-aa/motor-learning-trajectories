@@ -1,0 +1,14 @@
+{
+  "doi": "10.5281/zenodo.7824331",
+  "url": "https://zenodo.org/api/records/7824331/files/Interactive%20CL.zip/content",
+  "bytes": 162473113,
+  "md5": "bdfd37d21aef2fc756a52a2269fe1d97",
+  "sha256": "a821054ed4690f9f6c7ce07a104ebc78607cdcd1810e5383682e07b86b7bee33",
+  "license": "CC-BY-4.0",
+  "authors": [
+    "Vaynee Sungeelee",
+    "Antoine Loriette",
+    "Olivier Sigaud",
+    "Baptiste Caramiaux"
+  ]
+}
