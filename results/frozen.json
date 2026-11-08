@@ -1,0 +1,14 @@
+{
+  "frozen_at_utc": "2026-11-08T18:23:41.726452+00:00",
+  "files": {
+    "movement.py": "ec2bef63eb1ca476f182c278f82381cee48f0ce6294f0b3361a62ded377eb161",
+    "extract.py": "75736831b72561d28819f2e6d109219f0e1f370ed8b7e5ec2ca5465e710b47cd",
+    "analyse.py": "c616051bb8f253aa9550b72417579d2763faf7cc24ba558d0302cbfac344844d",
+    "protocol.json": "089611927cfefc8e6e145e0380c5f9e1fc7356ba26d5dd0b553fed26dcf9721f",
+    "requirements.txt": "784705b4e63af9f011cbb6ba7a1c842b3a793d7eef679cfaf73c0e40bccbff06",
+    "download.py": "f034afe35b764944e5b1d05371bd2f71407a961104eb368ad36cc07bc30a5a1c",
+    "test_movement.py": "6cc0952f6223887d572303a52513ea91c9ced3d7de01cc3f78e5b73e3900635f",
+    "data/manifest.json": "6980d35ba8ebaa7f087c71f23eb6f02ab1cdec3f699334ed8c53a43c2dcb3801",
+    "data/source_files.json": "3fb50928bf8af4780d5b88e88517e89c8769a7ea3f7ae0e82bf04325c8095346"
+  }
+}
