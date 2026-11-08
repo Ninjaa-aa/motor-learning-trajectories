@@ -1,0 +1,61 @@
+{
+  "question": "Do trajectory smoothness and shape reveal practice-related changes beyond movement duration and in-channel accuracy?",
+  "dataset": "10.5281/zenodo.7824331",
+  "development_participants": [
+    "P1-EA",
+    "P1-RM",
+    "P9-CL",
+    "P12-EA"
+  ],
+  "primary_phases": [
+    "pre",
+    "post",
+    "retention"
+  ],
+  "test_geometry": {
+    "diameter_px": 800,
+    "width_px": 18,
+    "movement_time_ms": 1000
+  },
+  "segmentation": {
+    "left_endpoint": [
+      100,
+      500
+    ],
+    "right_endpoint": [
+      900,
+      500
+    ],
+    "endpoint_radius_px": 30,
+    "minimum_samples": 20,
+    "max_gap_seconds": 0.15,
+    "min_duration_seconds": 0.2,
+    "max_duration_seconds": 5.0
+  },
+  "signal": {
+    "resample_hz": 120,
+    "savgol_window_seconds": 0.125,
+    "savgol_polynomial": 3,
+    "shape_points": 64,
+    "sensitivity_windows_seconds": [
+      0.083,
+      0.167
+    ]
+  },
+  "prediction": {
+    "target": "pre versus post phase, not cognitive automaticity",
+    "validation": "leave one evaluation participant out; development participants may be training only",
+    "pca_components": 5,
+    "logistic_C": 1.0,
+    "seed": 2027,
+    "phase_swap_repetitions": 20
+  },
+  "bootstrap_repetitions": 5000,
+  "policy": "Freeze code and protocol after development checks. Report all exclusions. Participant is the statistical unit. No claim of causal automaticity, clinical validity, or exact replication of the source paper.",
+  "retention_identity_mismatch_exclusions": [
+    "P11-EA",
+    "P5-CL",
+    "P8-RM"
+  ],
+  "retention_identity_policy": "Exclude these three from paired retention changes because recorded config user identifiers differ across days; pre/post comparison remains within one session."
+}
