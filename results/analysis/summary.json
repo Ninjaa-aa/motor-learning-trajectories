@@ -1,0 +1,330 @@
+{
+  "smoothing_sensitivity": [
+    {
+      "metric": "ldj_short",
+      "comparison": "post minus pre",
+      "participants": 32,
+      "mean_change": 0.694025402845845,
+      "bootstrap95": [
+        0.04055839193341882,
+        1.345648015750931
+      ]
+    },
+    {
+      "metric": "ldj_short",
+      "comparison": "retention minus pre",
+      "participants": 29,
+      "mean_change": 0.8765597477047564,
+      "bootstrap95": [
+        0.3110141671886655,
+        1.5057841405458285
+      ]
+    },
+    {
+      "metric": "ldj",
+      "comparison": "post minus pre",
+      "participants": 32,
+      "mean_change": 0.6856594753124516,
+      "bootstrap95": [
+        0.038110834637633276,
+        1.342247377992251
+      ]
+    },
+    {
+      "metric": "ldj",
+      "comparison": "retention minus pre",
+      "participants": 29,
+      "mean_change": 0.8415297402853832,
+      "bootstrap95": [
+        0.2807921264321898,
+        1.4599902485199105
+      ]
+    },
+    {
+      "metric": "ldj_long",
+      "comparison": "post minus pre",
+      "participants": 32,
+      "mean_change": 0.6766082835488179,
+      "bootstrap95": [
+        0.02813731699263285,
+        1.3465645612680526
+      ]
+    },
+    {
+      "metric": "ldj_long",
+      "comparison": "retention minus pre",
+      "participants": 29,
+      "mean_change": 0.8065658866890727,
+      "bootstrap95": [
+        0.2638552889310967,
+        1.38113217004716
+      ]
+    }
+  ],
+  "dataset_participants": 36,
+  "evaluation_participants": 32,
+  "eligible_classification_participants": 32,
+  "included_trials": 1573,
+  "evaluation_trials": 1393,
+  "changes": [
+    {
+      "metric": "duration",
+      "comparison": "post minus pre",
+      "participants": 32,
+      "pre_mean": 1.892755118145754,
+      "later_mean": 1.8965325877826802,
+      "mean_change": 0.003777469636926406,
+      "bootstrap95": [
+        -0.30205922365391724,
+        0.2886981369686772
+      ],
+      "wilcoxon_p": 0.5239179385825992,
+      "holm_p": 0.5239179385825992
+    },
+    {
+      "metric": "duration",
+      "comparison": "retention minus pre",
+      "participants": 29,
+      "pre_mean": 1.8875228889883977,
+      "later_mean": 1.6061500296217786,
+      "mean_change": -0.281372859366619,
+      "bootstrap95": [
+        -0.5561024832889431,
+        -0.037131777595898606
+      ],
+      "wilcoxon_p": 0.1154516153037548,
+      "holm_p": 0.2409750991500914
+    },
+    {
+      "metric": "icf",
+      "comparison": "post minus pre",
+      "participants": 32,
+      "pre_mean": 0.27810522108871094,
+      "later_mean": 0.44484349753319563,
+      "mean_change": 0.16673827644448463,
+      "bootstrap95": [
+        0.11958345153223247,
+        0.21205888597775335
+      ],
+      "wilcoxon_p": 4.977919161319733e-07,
+      "holm_p": 4.480127245187759e-06
+    },
+    {
+      "metric": "icf",
+      "comparison": "retention minus pre",
+      "participants": 29,
+      "pre_mean": 0.277051827300646,
+      "later_mean": 0.3332824573130567,
+      "mean_change": 0.05623063001241066,
+      "bootstrap95": [
+        0.008017095376030198,
+        0.10314217989817853
+      ],
+      "wilcoxon_p": 0.013825550675392151,
+      "holm_p": 0.09677885472774506
+    },
+    {
+      "metric": "ldj",
+      "comparison": "post minus pre",
+      "participants": 32,
+      "pre_mean": -14.757635140980852,
+      "later_mean": -14.0719756656684,
+      "mean_change": 0.6856594753124516,
+      "bootstrap95": [
+        0.038110834637633276,
+        1.342247377992251
+      ],
+      "wilcoxon_p": 0.08032503305003047,
+      "holm_p": 0.2409750991500914
+    },
+    {
+      "metric": "ldj",
+      "comparison": "retention minus pre",
+      "participants": 29,
+      "pre_mean": -14.71619641898964,
+      "later_mean": -13.874666678704259,
+      "mean_change": 0.8415297402853832,
+      "bootstrap95": [
+        0.2807921264321898,
+        1.4599902485199105
+      ],
+      "wilcoxon_p": 0.03262323513627052,
+      "holm_p": 0.1304929405450821
+    },
+    {
+      "metric": "path_ratio",
+      "comparison": "post minus pre",
+      "participants": 32,
+      "pre_mean": 1.6540560481820428,
+      "later_mean": 1.5545790532202397,
+      "mean_change": -0.09947699496180318,
+      "bootstrap95": [
+        -0.13528836610178852,
+        -0.06649170276113511
+      ],
+      "wilcoxon_p": 5.122274160385132e-08,
+      "holm_p": 5.634501576423645e-07
+    },
+    {
+      "metric": "path_ratio",
+      "comparison": "retention minus pre",
+      "participants": 29,
+      "pre_mean": 1.6459664312919369,
+      "later_mean": 1.6015365313800654,
+      "mean_change": -0.044429899911871525,
+      "bootstrap95": [
+        -0.07071419994776768,
+        -0.01745507027659557
+      ],
+      "wilcoxon_p": 0.005566027015447617,
+      "holm_p": 0.04452821612358093
+    },
+    {
+      "metric": "radial_rmse",
+      "comparison": "post minus pre",
+      "participants": 32,
+      "pre_mean": 1.6319706640432177,
+      "later_mean": 0.9521420247650765,
+      "mean_change": -0.6798286392781413,
+      "bootstrap95": [
+        -0.851774789696486,
+        -0.5091389535053771
+      ],
+      "wilcoxon_p": 3.259629011154175e-08,
+      "holm_p": 3.91155481338501e-07
+    },
+    {
+      "metric": "radial_rmse",
+      "comparison": "retention minus pre",
+      "participants": 29,
+      "pre_mean": 1.6381669425619347,
+      "later_mean": 1.3954696817079857,
+      "mean_change": -0.24269726085394872,
+      "bootstrap95": [
+        -0.4536793878240412,
+        -0.022142524453356963
+      ],
+      "wilcoxon_p": 0.02433420717716217,
+      "holm_p": 0.12167103588581085
+    },
+    {
+      "metric": "shape_variability",
+      "comparison": "post minus pre",
+      "participants": 32,
+      "pre_mean": 0.06513341541567529,
+      "later_mean": 0.046538027241761426,
+      "mean_change": -0.018595388173913867,
+      "bootstrap95": [
+        -0.0251218051102038,
+        -0.012704502358485564
+      ],
+      "wilcoxon_p": 2.0815059542655945e-07,
+      "holm_p": 2.0815059542655945e-06
+    },
+    {
+      "metric": "shape_variability",
+      "comparison": "retention minus pre",
+      "participants": 29,
+      "pre_mean": 0.06520555397836253,
+      "later_mean": 0.05634812130488512,
+      "mean_change": -0.008857432673477402,
+      "bootstrap95": [
+        -0.015760993330769857,
+        -0.002025141078966933
+      ],
+      "wilcoxon_p": 0.020265981554985046,
+      "holm_p": 0.12159588932991028
+    }
+  ],
+  "models": {
+    "duration": {
+      "participants": 32,
+      "balanced_accuracy": 0.47808159722222227,
+      "balanced_accuracy_bootstrap95": [
+        0.3959660077335858,
+        0.5599025410353534
+      ],
+      "auc": 0.5586285952052997,
+      "auc_bootstrap95": [
+        0.4310414668191656,
+        0.6815643908648168
+      ]
+    },
+    "duration_accuracy": {
+      "participants": 32,
+      "balanced_accuracy": 0.6925544507575758,
+      "balanced_accuracy_bootstrap95": [
+        0.6483272033955627,
+        0.7357130597267315
+      ],
+      "auc": 0.7958802804150815,
+      "auc_bootstrap95": [
+        0.7451750819972589,
+        0.8426262004941869
+      ]
+    },
+    "kinematics": {
+      "participants": 32,
+      "balanced_accuracy": 0.7678757440476192,
+      "balanced_accuracy_bootstrap95": [
+        0.7219145698051949,
+        0.8133443249458874
+      ],
+      "auc": 0.9110161323051948,
+      "auc_bootstrap95": [
+        0.8771984384479945,
+        0.9417061756208595
+      ]
+    },
+    "kinematics_pca": {
+      "participants": 32,
+      "balanced_accuracy": 0.7696907693001444,
+      "balanced_accuracy_bootstrap95": [
+        0.7255066710633117,
+        0.8141936947601011
+      ],
+      "auc": 0.9110811169049806,
+      "auc_bootstrap95": [
+        0.8797996960097458,
+        0.9395841459610992
+      ]
+    }
+  },
+  "full_minus_accuracy_baseline": {
+    "mean": 0.07713631854256855,
+    "bootstrap95": [
+      0.02392748635912699,
+      0.13007155821608948
+    ]
+  },
+  "phase_swap_diagnostic": {
+    "repetitions": 20,
+    "mean": 0.5032780370670997,
+    "range": [
+      0.3857125946969697,
+      0.6014119994588745
+    ],
+    "scores": [
+      0.5056801271645022,
+      0.5887575532106782,
+      0.4673678751803752,
+      0.6014119994588745,
+      0.4179095643939394,
+      0.5211980294011545,
+      0.4572905393217893,
+      0.48213214736652243,
+      0.47079556727994226,
+      0.5562556367243867,
+      0.5236004013347764,
+      0.5204348169191919,
+      0.3857125946969697,
+      0.49655483405483414,
+      0.4216050009018759,
+      0.5207600559163059,
+      0.47828282828282825,
+      0.5634069489538239,
+      0.503907941017316,
+      0.5824962797619048
+    ]
+  }
+}
