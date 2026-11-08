@@ -1,0 +1,13 @@
+participant,condition,day,block,trial,phase,reason
+P1-EA,EA,1,2,1,pre,no_left_endpoint
+P1-EA,EA,1,2,3,pre,no_right_endpoint_after_left
+P1-EA,EA,1,3,1,pre,no_right_endpoint_after_left
+P1-RM,RM,1,1,0,pre,no_left_endpoint
+P1-RM,RM,1,2,3,pre,no_right_endpoint_after_left
+P1-RM,RM,1,95,0,post,no_right_endpoint_after_left
+P12-EA,EA,1,1,1,pre,no_right_endpoint_after_left
+P12-EA,EA,1,3,2,pre,no_right_endpoint_after_left
+P9-CL,CL,1,3,2,pre,no_right_endpoint_after_left
+P1-EA,EA,2,0,2,retention,no_right_endpoint_after_left
+P1-EA,EA,2,0,6,retention,no_right_endpoint_after_left
+P12-EA,EA,2,1,0,retention,no_right_endpoint_after_left
